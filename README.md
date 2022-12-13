@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rustledrift
 - 👀 I’m interested in sociology, philosophy, Political and environmental issues
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning theology, modern history
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me @kaharad (Instagram)
 
 <!---
 rustledrift/rustledrift is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

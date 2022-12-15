@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rustledrift
+- 👋 Hi, I’m rustledrift
 - 👀 I’m interested in sociology, philosophy, Political and environmental issues
 - 🌱 I’m currently learning theology, modern history
 - 💞️ I’m looking to collaborate on ...
